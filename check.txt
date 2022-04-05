@@ -4,3 +4,7 @@ welcome
 arigatoo
 oni chan
 tq
+
+
+done 
+copy
